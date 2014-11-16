@@ -1,0 +1,11 @@
+body{
+    background-image: url("img/swirl_pattern.png");
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px white;
+}
+
+.col-md-5{
+    background-color: white;
+}
